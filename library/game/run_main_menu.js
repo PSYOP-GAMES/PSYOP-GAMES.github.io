@@ -37,7 +37,7 @@ let draw_title_text = () => {
     font: '10px SegoeUI',
   });
   add_text({
-    text: 'A U T O   C L A S H',
+    text: 'P O W E R',
     position: {
       x: 1 / 6 * the_canvas.width,
       y: 1 / 6 * the_canvas.height + 30,
